@@ -1,0 +1,29 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-packmate-dev-73054-authRole",
+      "UnauthRoleArn": "arn:aws:iam::106740952004:role/amplify-packmate-dev-73054-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::106740952004:role/amplify-packmate-dev-73054-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-packmate-dev-73054-deployment",
+      "UnauthRoleName": "amplify-packmate-dev-73054-unauthRole",
+      "StackName": "amplify-packmate-dev-73054",
+      "StackId": "arn:aws:cloudformation:us-east-1:106740952004:stack/amplify-packmate-dev-73054/6884d810-4072-11ee-a03a-12044b827ce5",
+      "AmplifyAppId": "d1vb45tuah3hfr"
+    },
+    "categories": {
+      "api": {
+        "packmate": {}
+      },
+      "auth": {
+        "packmate564cca5f": {}
+      },
+      "hosting": {
+        "amplifyhosting": {
+          "appId": "d1vb45tuah3hfr",
+          "type": "manual"
+        }
+      }
+    }
+  }
+}

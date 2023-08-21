@@ -23,30 +23,4 @@ const Header = () => {
   );
 };
 
-const styles = {
-  header: {
-    display: 'flex',
-    justifyContent: 'space-between',
-    alignItems: 'center',
-    padding: '20px',
-    borderBottom: '1px solid #ccc',
-  },
-  link: {
-    textDecoration: 'none',
-    color: 'black',
-    margin: '0 10px',
-    fontSize: '18px',
-    fontWeight: 'bold',
-  },
-  signOutButton: {
-    backgroundColor: 'black',
-    color: 'white',
-    border: 'none',
-    borderRadius: '4px',
-    padding: '8px 12px',
-    fontSize: '16px',
-    cursor: 'pointer',
-  },
-};
-
 export default Header;

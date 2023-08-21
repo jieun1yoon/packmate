@@ -1,0 +1,16 @@
+.container {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .signOutButton {
+    background-color: black;
+    color: white;
+    border: none;
+    border-radius: 4px;
+    padding: 8px 12px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  

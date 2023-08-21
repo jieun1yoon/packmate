@@ -1,0 +1,13 @@
+.todo {
+    margin-bottom: 15px;
+  }
+  
+  .todoName {
+    font-size: 20px;
+    font-weight: bold;
+  }
+  
+  .todoDescription {
+    margin-bottom: 0;
+  }
+  
